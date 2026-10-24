@@ -9,8 +9,8 @@ This repository contains the C++ code files coded for the Learn C++ course on th
 ### How to use?
 1. Make a C++ file. 
 2. Write your code in the file.
-3. In `CMakeList.text`, add `add_executable(filename filename.cpp)` in a new line.
-4. Click the tab beside the "Build hammer".
+3. In `CMakeLists.txt`, add `add_executable(filename filename.cpp)` on a new line.
+4. Click the tab to the left of the "Build hammer" and select the name of the file, or, do this after remaking the `CMake` project.
 5. Run.
 
 ---
@@ -24,6 +24,9 @@ This repository contains the C++ code files coded for the Learn C++ course on th
 5. `conditionals.cpp`
 6. `arrays-loops.cpp`
 7. `exercise-hotter-colder.cpp`
+8. `functions.cpp`
+9. `exercise-cows-and-bulls.cpp`
+10. `sudoku-solver.cpp`
 
 ---
 
